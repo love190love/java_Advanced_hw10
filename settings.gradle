@@ -1,0 +1,2 @@
+include ':app', ':10'
+rootProject.name='java_Advanced_hw10'
